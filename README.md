@@ -1,6 +1,3 @@
-Here's a sample README for your GitHub repository that outlines how to execute the programs in your `os-basic-programs` repo:
-
----
 
 # OS Basic Programs
 
