@@ -52,8 +52,13 @@ Replace `<filename>` with the name of the program you want to run (e.g., `banker
 Here's a brief overview of the files in this repository:
 
 - **bankersalgo.c:** Implementation of the Banker's Algorithm for deadlock avoidance.
+- **bfit.c:** Best Fit memory allocation algorithm.
+- **exec.c:** Demonstrates the `exec()` system call.
 - **fcfs.c:** First-Come, First-Served scheduling algorithm.
+- **ffit.c:** First Fit memory allocation algorithm.
+- **fifopr.c:** Demonstrates FIFO page replacement algorithm.
 - **fork.c:** Demonstrates the `fork()` system call.
+- **lrupr.c:** Least Recently Used (LRU) page replacement algorithm.
 - **priority.c:** Priority scheduling algorithm implementation.
 - **producerconsumer.c:** Implementation of the Producer-Consumer problem.
 - **roundrobin.c:** Round Robin scheduling algorithm.
@@ -61,5 +66,5 @@ Here's a brief overview of the files in this repository:
 - **sjf.c:** Shortest Job First scheduling algorithm.
 - **threadingandsynchronization.c:** Basic threading and synchronization examples.
 - **wait.c:** Demonstrates the use of the `wait()` system call.
-- **exec.c:** Demonstrates the `exec()` system call.
 
+---
