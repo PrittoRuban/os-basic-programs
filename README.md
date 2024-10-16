@@ -61,4 +61,5 @@ Here's a brief overview of the files in this repository:
 - **sjf.c:** Shortest Job First scheduling algorithm.
 - **threadingandsynchronization.c:** Basic threading and synchronization examples.
 - **wait.c:** Demonstrates the use of the `wait()` system call.
+- **exec.c:** Demonstrates the `exec()` system call.
 
